@@ -1,4 +1,6 @@
 # Turn-Based-Style-Game
+This was a full semester game project prototype for ITCS 4236
+
 To get to the title scene to start the game locate the Scenes folder within the Assets folder and within the Scenes Folder, locate the scene called Title Scene
 Assets -----> Scenes -------> TitleScene
 
